@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import random
 
 # MongoDB connection URI
-MONGODB_URI = "mongodb+srv://safam:samanida@cluster0.k7ijg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGODB_URI = ""
 
 # Sample data
 suppliers_data = [
